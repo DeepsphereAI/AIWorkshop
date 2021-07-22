@@ -1,0 +1,39 @@
+#  Date 	: 21/07/2021
+#  Version	: v1
+#  (C) 		: Deep Sphere, Inc.  
+#
+##############################
+
+
+##############################
+[Data Source]
+##############################
+DATA_SOURCE1= FILE
+DATA_SOURCE2= HDFS
+DATA_SOURCE3= SAP
+DATA_SOURCE4= ORACLE
+DATA_SOURCE5= MS
+
+##############################
+[Data Source Connection String]
+##############################
+
+SAP_CONNECTION_STRING=""
+HDFS_CONNECTION_STRING=""
+ORACLE_CONNECTION_STRING=""
+MS_CONNECTION_STRING=""
+
+##############################
+[FILE PATH]
+##############################
+
+TRAINING_DATA = /content/drive/MyDrive/StudentGradePrediction/grade training data.xlsx
+
+TRAINING_DATA_EXCEL_WORKSHEET = TRAINING_DATA
+
+TEST_DATA = /content/drive/MyDrive/StudentGradePrediction/Test data for prediction of final score.xlsx
+TEST_DATA_EXCEL_WORKSHEET = TEST_DATA
+
+
+
+#####################################################################

@@ -1,0 +1,3 @@
+Companies or Organizations often face huge customer attrition or churn. When customers leave the company, they not only lose the revenue from these customers but also loose the resources spent to acquire these customers at the first place. This is a serious concern for the companies.
+
+In this Implementation we are trying to predict customers who are mostly likely to churn using machine learning modelling. This implementation helps the companies to know in advance the customers who are more likely to leave the business at some point in time. This helps the companies to come up with retention strategies and policies.

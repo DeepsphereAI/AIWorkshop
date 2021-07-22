@@ -1,0 +1,27 @@
+##############################
+[FILE PATH]
+##############################
+
+TRAINING_DATA = drive/MyDrive/GenderDetection/TRAINING DATA
+
+TEST_DATA = drive/MyDrive/GenderDetection/TEST DATA
+
+MODEL_OUTCOME = drive/MyDrive/GenderDetection/MODEL OUTCOME
+
+MODEL_OUTCOME_CNN = drive/MyDrive/GenderDetection/CNN/MODEL OUTCOME
+
+IMG_SIZE = 50
+
+LEARNING_RATE = 0.0001
+
+SRC = drive/MyDrive/GenderDetection/TEST DATA
+
+SRC1 = drive/MyDrive/GenderDetection/CNN/TEST DATA
+
+DST = drive/MyDrive/GenderDetection/MODEL OUTCOME/
+
+DST1 = drive/MyDrive/GenderDetection/CNN/MODEL OUTCOME/
+
+PATH = drive/MyDrive/GenderDetection/MODEL OUTCOME/
+
+PATH1 = drive/MyDrive/GenderDetection/CNN/MODEL OUTCOME/
